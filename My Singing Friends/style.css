@@ -1,0 +1,41 @@
+body {
+    background-color:darkolivegreen;
+}
+
+h1{
+    color:lightyellow;
+}
+
+.friends{
+    background-color: lightgrey;
+    text-transform: uppercase;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: gray;
+    float: center;
+
+    
+}
+
+ul{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 12px, 14px;
+    text-decoration: none;
+}
+
+
+/*p {
+    text-transform: uppercase;
+    list-style-type: none;
+    margin: 20px;
+    padding: 10px;
+    overflow: hidden;
+    background-color: gray;
+
+
+}
+*/
